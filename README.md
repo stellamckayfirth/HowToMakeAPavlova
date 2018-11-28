@@ -38,7 +38,7 @@ Pavlova isn't the only dessert, explore the multiple options for desserts today!
 
 | Dessert | Preparation Time |
 | ------ | ------ |
-| Chocolate Cake | 1 hour 20minutes|
+| Chocolate Cake | 1 hour 20 minutes|
 | Eclairs | 45 minutes |
 | Apple Pie | 1 hour |
 | Chocolate Biscuit Cake | 20 minutes|
