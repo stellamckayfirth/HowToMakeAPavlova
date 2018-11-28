@@ -1,4 +1,5 @@
 # The Pavlova Procedure
+![Pavlova](https://github.com/stellamckayfirth/HowToMakeAPavlova/blob/master/pavlova.jpg?raw=true)
 
 Pavlova is a meringue-based dessert named after the Russian ballerina Anna Pavlova. It is a meringue dessert with a crisp crust and soft, light inside, usually topped with fruit and whipped cream.
 
